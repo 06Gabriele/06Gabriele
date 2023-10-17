@@ -8,9 +8,9 @@ Meu nome é Gabriele
 
 ### Você pode entrar em contato comigo :mailbox
 
-gabriele.ribeiro12@escola.pr.gov.br
+[![ALt](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriele.ribeiro12@escola.pr.gov.br)
+![Alt](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
-@gabrieleribeiro63
  
   ![](https://media.tenor.com/9HYt92PCFlMAAAAC/felix-soy-gato.gif)
 
